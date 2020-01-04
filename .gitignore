@@ -129,8 +129,8 @@ dmypy.json
 .pyre/
 
 # input data and models 
-input/
-models/
+#input/
+#models/
 
 # data files
 *.csv
